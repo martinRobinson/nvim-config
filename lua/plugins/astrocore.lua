@@ -34,6 +34,7 @@ return {
         spelllang = "en_gb",
         signcolumn = "auto", -- sets vim.opt.signcolumn to auto
         wrap = false, -- sets vim.opt.wrap
+        hlsearch = true,
       },
       g = { -- vim.g.<key>
         -- configure global vim variables (vim.g)
